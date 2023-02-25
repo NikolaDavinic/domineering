@@ -1,1 +1,1 @@
-# domineering
+Igrica koja je implementirana uz pomoc python-a. U ovoj igrici igraci postavljaju plocice na tabli proizvoljne dimenzije . Jedan igrac postavlja vertikalno, a drugi horizontalno. Poenta igre je da se sto vise mogucih poteza smanji protivnickom igracu. Kraj igre je kada jedan od igraca nema vise poteza za igru, i tada je pobednik onaj koji je zadnji igrao.
